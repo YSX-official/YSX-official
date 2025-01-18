@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am an undergraduate at The Chinese University of Hong Kong (CUHK) majored in Mathematics & Info Engineering.
+I am an undergraduate at The Chinese University of Hong Kong (CUHK) majored in Mathematics & Info Engineering. I will go to ETH as an exchange student on 2026 Spring.
 
 ### Interests
 - 🎾 : I like playing tennis
