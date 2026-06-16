@@ -9,12 +9,13 @@ I am an year-3 undergraduate at the Chinese University of Hong Kong (CUHK) major
 - ...
 
 ### What I am doing now?
-- Working on Computational LEGO Design (Computer Graphics + Fabrication, CUHK, Jun 2024 - Aug 2024)
-- Working on AI-empowered LEGO Generation (Computer Graphics + Generative Model, CUHK, Sep 2024 - Jan 2025)
-- Working on creating Multi-oriented LEGO Stack Arts (Computer Graphics + Fabrication, CUHK, Feb 2025 - Jan 2026)
-- Working on 3D reasoning of LM (3D Vision, ETH Zürich, Mar 2026 - Present) 😃
+- Working on Computational LEGO Design (CG, CUHK, Jun 2024 - Aug 2024)
+- Working on AI-empowered LEGO Generation (CG + ML, CUHK, Sep 2024 - Jan 2025)
+- Working on creating Multi-directional LEGO Stack Arts (CG, CUHK, Feb 2025 - Jan 2026)
+- Working on 3D reasoning of LM (NLP, ETH Zürich, Mar 2026 - Present)
+- Working on LEGO reconstruction from images (CG + LLM, CUHK, Jun 2026 - Present) 😃
 
 ### What I am interested in?
-My research interests include Language Models, Computer Graphics, and Geometry Processing.
+My research interests include Language Models, 3D Vision, and Computer Graphics.
 
 Thanks for your visiting! 😘
